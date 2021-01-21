@@ -28,12 +28,12 @@
 <p align="left"> <a href="https://twitter.com/masadkhanek" target="blank"><img src="https://img.shields.io/twitter/follow/masadkhanek?logo=twitter&style=for-the-badge" alt="masadkhanek" /></a> </p>
 
 
-
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=asadkhanek&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asadkhanek&hide=css,java,html&theme=tokyonight">
 </p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadkhanek&show_icons=true&locale=en" alt="asadkhanek" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asadkhanek&hide=css,java,html&theme=tokyonight"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
