@@ -32,7 +32,8 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadkhanek&show_icons=true&locale=en" alt="asadkhanek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadkhanek&show_icons=true&locale=en" alt="asadkhanek" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asadkhanek&hide=css,java,html&theme=tokyonight"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
