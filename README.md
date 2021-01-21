@@ -17,11 +17,11 @@
 # Some Acomplishments: 🚀
 <p>
   <list>
-    <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
-    <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
-    <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
-    <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
-    <ol> 🚀 Remote Intern @International Model United Nation. </ol>
+    <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020 </ol>
+    <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021) </ol>
+    <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead </ol>
+    <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook </ol>
+    <ol> 🚀 Remote Intern @International Model United Nation </ol>
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadkhanek&label=Profile%20views&color=0e75b6&style=flat" alt="@asadkhanek" /> </p>
 
