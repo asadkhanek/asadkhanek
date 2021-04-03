@@ -66,5 +66,5 @@
 <a href="https://www.behance.net/asadkhan57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="asadkhan57" height="30" width="40" /></a>
 <a href="https://medium.com/@masadkhanek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@masadkhanek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCPO-nbT3jaK0h00jXFJtGjQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="/channel/UCPO-nbT3jaK0h00jXFJtGjQ" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bc180409129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bc180409129" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bc180409129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bc180409129" height="30" width="40" /></a>n
 </p>   
