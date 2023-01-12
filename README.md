@@ -29,8 +29,7 @@
 
 <p align = "center">
  
-  <img src = "https://github-readme-stats.vercel.app/api?username=asadkhanek&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asadkhanek&hide=css,java,html&theme=tokyonight">
+  
   <img src = "https://github-profile-trophy.vercel.app/?username=asadkhanek&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 </details>
