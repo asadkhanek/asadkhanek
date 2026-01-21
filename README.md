@@ -1,69 +1,48 @@
+# Muhammad Asad Khan
 
+**Software Engineer | Web Developer**  
+Lahore, Pakistan
 
+[![Profile Views](https://komarev.com/ghpvc/?username=asadkhanek&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/asadkhanek)
+[![Twitter Follow](https://img.shields.io/twitter/follow/masadkhanek?logo=twitter&style=for-the-badge)](https://twitter.com/masadkhanek)
 
-<h1 align="center">Hi 👋, I'm Muhammad Asad khan</h1>
-<h3 align="center"> Student of BS Computer Science from Lahore, Pakistan</h3>
+## About
+I’m a Computer Science graduate and a junior software engineer focused on building clean, user-friendly web experiences. I enjoy learning new technologies, shipping real products, and collaborating with teams that value quality.
 
-# Who am I? 😄
-<p>
-<list>
-<ul> ✨ A 20 Years Old young tech enthusiastic, who strives to learn & Grow. </ul>
-<ul> 🌱 I am doing Bachelor’s degree in Computer Sciences from the virtual university of Pakistan,(2018-2022). </ul>
-<ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
-<ul> 🚀 Technology Enthusiastic. </ul>
-</list>
-</p>
+## Highlights
+- Junior Software Engineer with experience in modern front-end development.
+- Comfortable across the stack with .NET, MS SQL, and object-oriented design.
+- Active community member and former brand ambassador.
 
-# Some Acomplishments: 🚀
-<p>
-  <list>
-    <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020 </ol>
-    <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead </ol>
-    <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook </ol>
-    <ol> 🚀 Remote Intern @International Model United Nation </ol>
-   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadkhanek&label=Profile%20views&color=0e75b6&style=flat" alt="@asadkhanek" /> </p>
+## Skills
+**Front-end:** HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React  
+**Back-end:** .NET, MS SQL  
+**Other:** OOP, Git, REST APIs
 
-<p align="left"> <a href="https://twitter.com/masadkhanek" target="blank"><img src="https://img.shields.io/twitter/follow/masadkhanek?logo=twitter&style=for-the-badge" alt="masadkhanek" /></a> </p>
+## Community & Experience
+- Brand Ambassador, NEST I/O (#021Disrupt2020)
+- PR Lead, Developer Student Clubs GCU Lahore (Powered by Google)
+- Former Community Member, Facebook Community Leadership Circle
+- Remote Intern, International Model United Nation
 
-
-<p align = "center">
- 
-  
-  <img src = "https://github-profile-trophy.vercel.app/?username=asadkhanek&show_icons=true&theme=tokyonight&line_height=27">
-</p>
-</details>
-
-
-<p align="center">
-    <h4 align="center">Languages:</h4>
-    <p align="center">
-       <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-      <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-   
-    
-
-
-
-
-<h3 align="left">Connect with me:</h3>
+## Languages & Tools
 <p align="left">
-<a href="https://codepen.io/asadkhanek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="asadkhanek" height="30" width="40" /></a>
-<a href="https://twitter.com/masadkhanek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="masadkhanek" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/masadkhanek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="masadkhanek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14218271/muhammad-asad-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muhammad-asad-khan" height="30" width="40" /></a>
-<a href="https://fb.com/asadkhan38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asadkhan38" height="30" width="40" /></a>
-<a href="https://instagram.com/asadkhan38" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="asadkhan38" height="30" width="40" /></a>
-<a href="https://www.behance.net/asadkhan57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="asadkhan57" height="30" width="40" /></a>
-<a href="https://medium.com/@masadkhanek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@masadkhanek" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCPO-nbT3jaK0h00jXFJtGjQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="/channel/UCPO-nbT3jaK0h00jXFJtGjQ" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bc180409129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="bc180409129" height="30" width="40" /></a>
-</p>   
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+</p>
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/masadkhanek/
+- Twitter: https://twitter.com/masadkhanek
+- CodePen: https://codepen.io/asadkhanek
+- Medium: https://medium.com/@masadkhanek
+- YouTube: https://www.youtube.com/channel/UCPO-nbT3jaK0h00jXFJtGjQ
+- Stack Overflow: https://stackoverflow.com/users/14218271/muhammad-asad-khan
+- Instagram: https://instagram.com/asadkhan38
+- Facebook: https://fb.com/asadkhan38
+- Behance: https://www.behance.net/asadkhan57
